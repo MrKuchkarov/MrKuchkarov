@@ -13,7 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=MrKuchkarov&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  I sincerely greet you all
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh5dWEwdWlzOWdyeXdkOGxjd3I5anIxN2pna2xmNjVocmVzanloNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11mwBM4qjFBBwA/giphy.gif" width="50px" align="center"/>
 </h1>
 </div>
