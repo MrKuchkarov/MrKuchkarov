@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/mr_kuchkarov/">
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=pink&style=for-the-badge" alt="Instagram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="youtube.com">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/Mr_Kuchkarov">
