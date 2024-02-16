@@ -4,11 +4,11 @@
   <a href="https://www.instagram.com/mr_kuchkarov/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://t.me/MrKuchkarov">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/Mr_Kuchkarov">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://wa.me/79858949599">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=MrKuchkarov&style=flat-square&color=blue" alt=""/>
