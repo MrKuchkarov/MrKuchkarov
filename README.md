@@ -30,7 +30,7 @@ My name is Kuchkarov Muhammad, I am a Frontend Developer <img src="https://media
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: I’m studying technical content writing and also studying in the Yandex Workshop.
+- :seedling: I’m studying technical content writing and also studying in the Yandex Practicum.
 
 - :zap: In my free time, I solve problems in leetcode and read technical articles. I also like to run marathons
 
